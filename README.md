@@ -5,6 +5,7 @@
 #### Android
 
     yarn
+    chmod 755 android/gradlew
     npm run android
 
 #### IOS
