@@ -9,7 +9,7 @@
 * Written with React 16.8+ React Hooks
 
 ### Android
-![Running on android](https://i.imgur.com/Msmvqvr.gif)
+![Running on android](resources/androidGif.gif)
 
 ### IOS
  TODO
