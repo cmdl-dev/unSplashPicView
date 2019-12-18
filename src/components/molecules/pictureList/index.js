@@ -51,7 +51,7 @@ const PictureList = () => {
                   <Picture
                     key={index}
                     src={photo.urls.small}
-                    dimensions={{w: 180, h: 180}}
+                    dimensions={{w: 170, h: 170}}
                   />
                 );
               })}
